@@ -60,7 +60,3 @@ chatbot-frontend/
 📧 [tvenkataharsha@gmail.com]
 🌐 GitHub: [https://github.com/Harshavardhan-2761]
 
----
-
-👉 Do you want me to also **embed a GIF demo preview** (I can give you the code to record your chatbot in action and add it in README), so it looks even more attractive on GitHub?
-```
